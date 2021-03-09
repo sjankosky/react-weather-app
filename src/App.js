@@ -1,5 +1,5 @@
 import React from "react";
-
+import Weather from "./Weather";
 import "./App.css";
 
 function App() {
@@ -7,6 +7,7 @@ function App() {
     <div className="App">
       <div className="container">
         <h1>Weather App</h1>
+        <Weather />
         <footer>
           This project is coded by{" "}
           <a
