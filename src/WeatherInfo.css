@@ -4,7 +4,8 @@
 }
 
 .WeatherInfo h1{
-    color: rgb(93, 12, 170);
+    /* color: rgb(93, 12, 170); */
+    color: #0800FF;
     padding-bottom: 10px;
 }
 

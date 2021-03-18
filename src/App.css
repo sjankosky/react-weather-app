@@ -1,9 +1,18 @@
 .App {
   max-width: 800px;
   margin: 30px auto;
+  padding-top: 20px;
 }
 
 .App footer {
   font-size: 11px;
   margin: 10px 0;
+}
+
+.App .Weather{
+background-color: #E1EAF1;
+}
+
+body{
+  background: #aab0bb;
 }
