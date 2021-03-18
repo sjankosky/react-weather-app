@@ -27,6 +27,7 @@
 .Weather canvas {
   margin-right: 10px;
   display: inline-block;
+  /* display: block; */
   height: 64px;
   width: 64px;
 }
