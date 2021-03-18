@@ -1,8 +1,9 @@
 .Weather {
   /* border: 1px solid #dadde1; */
-  border: 2px solid #1DB2A8;
+  border: 2px solid #1db2a8;
   font-family: arial, sans-serif;
-  color: rgb(135, 135, 135);
+  /* color: rgb(135, 135, 135); */
+  color: black;
   padding: 16px;
   border-radius: 8px;
 }
