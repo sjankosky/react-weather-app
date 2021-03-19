@@ -1,19 +1,17 @@
 .WeatherInfo {
-    text-align: center;
-    /* margin: 50px; */
+  text-align: center;
 }
 
-.WeatherInfo h1{
-    /* color: rgb(93, 12, 170); */
-    color: #1DB2A8;
-    padding-bottom: 10px;
+.WeatherInfo h1 {
+  color: #1db2a8;
+  padding-bottom: 10px;
 }
 
-.WeatherInfo .Header{
-    font-style: italic;
+.WeatherInfo .Header {
+  font-style: italic;
 }
 
-.WeatherInfo .mt-3{
-    padding: 0 60px;
-    margin: 40px 0;
+.WeatherInfo .mt-3 {
+  padding: 0 60px;
+  margin: 40px 0;
 }

@@ -29,11 +29,6 @@ export default function WeatherIcon(props) {
       color="blue"
       size={64}
       animate={true}
-      //   icon={defaults.icon}
-      //   color={defaults.color}
-      //   size={defaults.size}
-      //   animate={defaults.animate}
-      // src="https://raw.githubusercontent.com/divyanshu013/react-animated-weather/HEAD/react-animated-weather.gif"
     />
   );
 }

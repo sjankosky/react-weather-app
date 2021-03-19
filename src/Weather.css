@@ -1,8 +1,6 @@
 .Weather {
-  /* border: 1px solid #dadde1; */
   border: 2px solid #1db2a8;
   font-family: arial, sans-serif;
-  /* color: rgb(135, 135, 135); */
   color: black;
   padding: 16px;
   border-radius: 8px;
@@ -29,7 +27,6 @@
 .Weather canvas {
   margin-right: 10px;
   display: inline-block;
-  /* display: block; */
   height: 64px;
   width: 64px;
 }
